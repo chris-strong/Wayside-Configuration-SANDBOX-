@@ -1,0 +1,110 @@
+Site Name,SiteID,WAN_GATEWAY,WAN_IP,SUBNET_MASK,HOSTNAME,CELL_NAME,CELL_USERNAME ,CELL_PASSWORD,ACCESS_POINT,Static Relay 1,Static Relay 2,Static Relay 3,Static Relay 4,VLAN1_IP
+Brosnan Forest,616123,10.4.48.17,10.4.48.22,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80010:pd.sc.dorchester,,,,10.255.255.254
+WAUHATCHIE,657003,10.28.110.1,10.28.110.29,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80059:ce.tn.wauhatchie,,,,10.255.255.254
+N. Ceder,616104,10.4.48.33,10.4.48.38,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80103:pi.sc.summerville,,,,10.255.255.254
+SIG 87.5/87.6,614069,10.4.48.49,10.4.48.54,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80005:pi.sc.portiard,,,,10.255.255.254
+SIG 11.8/11.9,601047,10.6.25.1,10.6.25.22,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80397:ce.tn.bluffcity,,,,10.255.255.254
+Sweetwater,600044,10.6.23.1,10.6.23.22,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80070:ce.tn.sweetwater,,,,10.255.255.254
+Cohutta,636010,10.4.48.1,10.4.48.6,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80069:ga.ga.cohutta,,,,10.255.255.254
+SIG 49.6/.5,656042,10.28.80.1,10.28.80.151,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80021:al.ms.erratamw,,,,10.255.255.254
+SIG 115.3/.4,656102,10.28.80.1,10.28.80.155,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80024:al.ms.lumberton,,,,10.255.255.254
+SIG 160.1/.2,656130,10.28.80.1,10.28.80.159,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80027:al.la.pearlriver,,,,10.255.255.254
+Dover,650047,10.28.144.1,10.28.144.88,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80114:po.va.woodallrd,,,,10.255.255.254
+Kinney,650048,10.28.144.1,10.28.144.86,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80114:po.va.woodallrd,,,,10.255.255.254
+Irvin,616172,10.28.144.1,10.28.144.82,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80114:po.va.woodallrd,,,,10.255.255.254
+24th street,647007,10.28.230.1,10.28.230.69,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80110:po.va.roanokeyard,,,,10.255.255.254
+16th street,647006,10.28.230.1,10.28.230.71,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80110:po.va.roanokeyard,,,,10.255.255.254
+Huddleston,652044,10.22.12.17,10.22.12.22,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80423:pi.va.huddleston,,,,10.255.255.254
+Radford,648003,10.28.230.1,10.28.230.74,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80366:po.va.radford,,,,10.255.255.254
+Montpelier,628083,10.28.204.1,10.28.204.59,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80379:la.oh.montipelier,,,,10.255.255.254
+Harkness St,629047,10.28.204.1,10.28.204.64,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80037:la.oh.bellevue,,,,10.255.255.254
+Attica Jct.,630061,10.28.204.1,10.28.204.67,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80038:la.oh.attica,,,,10.255.255.254
+Sig 299.2/299.3.,605045,10.28.110.1,10.28.110.83,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80242:ce.ky.veechdale,,,,10.255.255.254
+Sig 100.1/100.2/100.3/100.4.,604069,10.28.110.1,10.28.110.77,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80141:ce.ky.wilmore,,,,10.255.255.254
+Harrodsburg,605088,10.28.110.1,10.28.110.80,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80240:ce.ky.harrodsburg,,,,10.255.255.254
+Sig 117.2/117.3,603001,10.28.110.1,10.28.110.74,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80140:ce.ky.danville,,,,10.255.255.254
+Sig 20.4/20.5,656021,10.28.80.1,10.28.80.100,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80019:al.ms.wautubeemw,,,,10.255.255.254
+York,655123,10.28.80.1,10.28.80.104,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80017:al.al.york,,,,10.255.255.254
+Bryant,655050,10.28.80.1,10.28.80.108,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80013:al.al.tuscaloosa,,,,10.255.255.254
+Bremen,654025,10.28.80.1,10.28.80.112,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80045:al.ga.bremen,,,,10.255.255.254
+Helfin,654048,10.28.80.1,10.28.80.116,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80299:al.al.heflin,,,,10.255.255.254
+Anniston,654066,10.28.80.1,10.28.80.120,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80042:al.al.anniston,,,,10.255.255.254
+Sig 86.0/.1,657063,10.28.80.1,10.28.80.124,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80053:al.al.gadsden,,,,10.255.255.254
+River Junction,660067,10.28.80.1,10.28.80.130,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80080:al.al.decatur,,,,10.255.255.254
+Decatur,660068,10.28.80.1,10.28.80.129,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80080:al.al.decatur,,,,10.255.255.254
+Sig 422.8/.9,659021,10.28.80.1,10.28.80.135,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80083:al.al.cherokee,,,,10.255.255.254
+Shuping,615001,10.28.144.1,10.28.144.109,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80204:pi.nc.salisbury,,,,10.255.255.254
+CP Huntingburg,682166,10.28.163.1,10.28.163.67,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80250:il.in.huntingburg,,,,10.255.255.254
+Daisy,602061,10.28.110.1,10.28.110.90,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80090:ce.tn.daisy,,,,10.255.255.254
+Ooltewah,636001,10.28.110.1,10.28.110.86,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80055:ce.tn.ooltewahterm,,,,10.255.255.254
+Hair,636027,10.15.10.1,10.15.10.69,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80068:ga.ga.daltonterminal,,,,10.255.255.254
+N. Dalton,636026,10.15.10.1,10.15.10.71,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80068:ga.ga.daltonterminal,,,,10.255.255.254
+Sig 114.7/.8,600102,10.28.24.1,10.28.24.94,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80326:db.in.elkhart,,,,10.255.255.254
+E. Campbellstown,633030,10.28.204.1,10.28.204.76,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80310:la.oh.campbellstown,,,,10.255.255.254
+CP East 37th St.,618004,10.8.48.1,10.8.48.8,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80269:la.oh.craytonave,,,,10.255.255.254
+CP 102,619002,10.28.209.49,10.28.209.52,255.255.255.248,,NS-CELL,none,none,static.nscorp.com,ns.v.80426:db.oh.twinsburg,,,,10.255.255.254
+CP 86,675061,10.42.50.161,10.42.50.163,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80427:pb.oh.ravena,,,,10.255.255.254
+CP Attica,691145,10.36.36.65,10.36.36.78,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80413:hb.ny.attica,,,,10.255.255.254
+Sigs 169.8/.9,637027,10.15.10.1,10.15.10.82,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80066:ga.ga.stockbridge,,,,10.255.255.254
+Sigs 198.0/.1,637049,10.15.10.1,10.15.10.85,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80064:ga.ga.jackson,,,,10.255.255.254
+Sigs 50.6/.7,641047,10.15.10.1,10.15.10.100,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80157:ga.ga.pinehurst,,,,10.255.255.254
+Carman,643022,10.15.10.1,10.15.10.106,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80278:ga.ga.fortvalley,,,,10.255.255.254
+Sigs 104.1/.2,641090,10.15.10.1,10.15.10.133,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80160:ga.ga.tifton,,,,10.255.255.254
+CP Sparks,641110,10.15.10.1,10.15.10.130,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80161:ga.ga.sparks,,,,10.255.255.254
+CP Valdosta,642001,10.15.10.1,10.15.10.121,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80162:ga.ga.valdosta,,,,10.255.255.254
+Sig 151.8,642011,10.15.10.1,10.15.10.125,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80162:ga.ga.valdosta,,,,10.255.255.254
+CP SE Haylow,642022,10.15.10.1,10.15.10.118,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80163:ga.ga.haylow,,,,10.255.255.254
+Sigs 191.9/192.0,642030,10.15.10.1,10.15.10.115,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80164:ga.ga.colon,,,,10.255.255.254
+CP NE Eddy,642050,10.15.10.1,10.15.10.112,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80165:ga.fl.eddy,,,,10.255.255.254
+CP Crawford,642083,10.15.10.1,10.15.10.109,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80166:ga.fl.crawford,,,,10.255.255.254
+CP N Rockwood,602021,10.28.110.1,10.28.110.71,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80092:ce.tn.rockwood,,,,10.255.255.254
+PTC WP 20.1,661007,10.38.48.17,10.38.48.24,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80173:al.al.turner,,,,10.255.255.254
+N Spring City,602027,10.28.80.1,10.28.80.168,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80093:ce.tn.springcity,,,,10.255.255.254
+PTC WP 152.8,661028,10.28.80.1,10.28.80.165,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80174:al.al.randolph,,,,10.255.255.254
+PTC WP 52.0,661104,10.28.80.1,10.28.80.91,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80180:al.al.thomasville,,,,10.255.255.254
+West Centralia,682043,10.28.163.1,10.28.163.90,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80221:il.il.centralia,,,,10.255.255.254
+WB,647022,10.28.230.1,10.28.230.67,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80110:po.va.roanokeyard,,,,10.255.255.254
+Hubbard,673044,10.42.48.193,10.42.48.198,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80391:pb.oh.hubbard,,,,10.255.255.254
+Holtwood,695024,10.36.36.17,10.36.36.22,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80031:hb.pa.holtwood,,,,10.255.255.254
+CP Tome,695004,10.36.36.1,10.36.36.6,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80030:hb.md.portdeposit,,,,10.255.255.254
+PTC WP 170.5,661043,10.38.48.177,10.38.48.182,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80175:al.al.plantersvillesa,,,,10.255.255.254
+SIG 238.1 EW,632083,10.26.48.113,10.26.48.117,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80421:la.oh.liberty,,,,10.255.255.254
+CP Allen,697030,10.36.37.193,10.36.37.200,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80432:hb.pa.allentown,,,,10.255.255.254
+CP Wick,673024,10.42.48.1,10.42.48.12,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80393:pb.oh.williamsfield,,,,10.255.255.254
+CP Perry,678008,10.42.49.81,10.42.49.88,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80462:pb.pa.perryduquesne,,,,10.255.255.254
+Easton,697128,10.36.38.65,10.36.38.71,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80452:hb.pa.easton,,,,10.255.255.254
+Lehighton,698022,10.36.38.161,10.36.38.168,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80456:hb.pa.lehighton,,,,10.255.255.254
+CP 162 ,632023,10.8.48.33,10.8.48.40,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.b:80433.la.oh.london.r.sma,,,,10.255.255.254
+Bird ,694042,10.36.38.210,10.36.38.212,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80460:hb.pa.birdsboro,,,,10.255.255.254
+CP 229 ,632069,10.8.48.161,10.8.48.168,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80437:la.oh.middletownoh,,,,10.255.255.254
+CP 64 Main,697121,10.42.76.65,10.42.76.70,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80453:hb.nj.bellwoodeast,,,,10.255.255.254
+Port,680006,10.42.49.33,10.42.49.40,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80152:pb.pa.newport,,,,10.255.255.254
+Hawstone,680028,10.42.50.1,10.42.50.8,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80404:pb.pa.hawstone,,,,10.255.255.254
+Lewis ,680030,10.42.77.177,10.42.77.180,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80446:hb.pa.lewistown,,,,10.255.255.254
+Bowler,650025,10.22.12.33,10.22.12.40,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80239:po.va.pamplin,,,,10.255.255.254
+Sig 129.4/.5/.6/.7,649108,10.28.230.1,10.28.230.85,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80236:po.va.crewe,,,,10.255.255.254
+Sig 61.6/.7/.8/.9,649062,10.28.230.1,10.28.230.82,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80233:po.va.waverly,,,,10.255.255.254
+Sig 35.0/35.1,649033,10.28.230.1,10.28.230.79,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80369:po.va.windsor,,,,10.255.255.254
+Suffolk,649027,10.28.230.1,10.28.230.88,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80231:po.va.suffolk,,,,10.255.255.254
+South Norfolk,649007,10.28.230.1,10.28.230.91,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80232:po.va.portlockyard,,,,10.255.255.254
+Port,680006,10.42.49.33,10.42.49.40,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80205:ce.tn.newport,,,,10.255.255.254
+Falls,694001,10.36.36.177,10.36.36.184,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80400:hb.pa.falls,,,,10.255.255.254
+King,696004,10.36.36.161,10.36.36.168,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80399:hb.pa.ernest,,,,10.255.255.254
+Blandon,697001,10.36.38.241,10.36.38.247,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80439:hb.pa.blandon,,,,10.255.255.254
+Cola,695045,10.36.36.49,10.36.36.56,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80033:hb.pa.cola,,,,10.255.255.254
+West Harbor,695030,10.36.36.33,10.36.36.40,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80032:hb.pa.safeharbor,,,,10.255.255.254
+North Tunnel,657001,10.15.10.1,10.15.10.138,255.255.255.0,,NS-CELL,none,none,static.nscorp.com,ns.v.80471:al.tn.northtunnel,,,,10.255.255.254
+Villamont,650082,10.22.14.49,10.22.14.53,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80346:po.va.villamont,,,,10.255.255.254
+Sig 229N/229S,692066,10.42.49.193,10.42.49.198,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80445:hb.pa.rsbs,,,,10.255.255.254
+Kase,692090,10.42.77.65,10.42.77.70 ,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80458:hb.pa.kasesunbury,,,,10.255.255.254
+South Boyles,692106,10.36.36.129,10.36.36.134,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80411:hb.pa.boyles,,,,10.255.255.254
+Savannah Rd,639007,10.4.48.209,10.4.48.214,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80494:ga.ga.mcbean,,,,10.255.255.254
+Hunt,680065,10.42.48.209,10.42.48.214,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80150:pb.pa.huntingdon,,,,10.255.255.254
+Mifflin,680025,10.42.50.49,10.42.50.54,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.80405:pb.pa.mifflin,,,,10.255.255.254
+Beck,678004,10.42.92.49,10.42.92.54,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,,,,,10.255.255.254
+,,,,,,,,,,,,,,
+Trailer 1,999990,10.4.50.97,10.4.50.102,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.690004:base,,,,10.255.255.254
+Trailer 2,999991,10.4.50.97,10.4.50.103,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.690004:base,,,,10.255.255.254
+Trailer 3,999992,10.4.50.97,10.4.50.104,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.690004:base,,,,10.255.255.254
+Trailer 4,999993,10.4.50.97,10.4.50.105,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.690004:base,,,,10.255.255.254
+Trailer 5,999994,10.4.50.97,10.4.50.106,255.255.255.240,,NS-CELL,none,none,static.nscorp.com,ns.v.690004:base,,,,10.255.255.254
